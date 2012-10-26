@@ -1,7 +1,7 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "OpenShift-Sample-Ethercalc",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "description": "OpenShift Sample Ethercalc",
   "keywords": [
     "OpenShift",
     "Node.js",
