@@ -3,7 +3,7 @@ EtherCalc on OpenShift
 
 This git repository helps you get up and running quickly w/ a EtherCalc installation
 on OpenShift. There is no Redis support in opensift for now, so this will fallback on
-using disk based json data. I am not sure this will survive a reboot.
+using disk based json data. This is slightly slower, but will survive a reboot all the same.
  
 Running on OpenShift
 ----------------------------
